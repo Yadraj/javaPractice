@@ -3,7 +3,7 @@ package Day1.practice;
 import java.util.Arrays;
 
 
-public class practice001 {
+public class Anagram001 {
     public static void main(String[] args) {
 
         String s = "silent";
